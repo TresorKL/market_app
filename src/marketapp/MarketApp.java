@@ -19,7 +19,8 @@ public class MarketApp {
         int x =10;
         int y = 40;
         System.out.print(x + y);
-
+        System.out.println("Hello Elienoch Lubaya Mulumba");
+         System.out.println("everything is okay");
     }
     
 }
